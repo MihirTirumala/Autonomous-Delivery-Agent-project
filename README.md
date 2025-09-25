@@ -1,9 +1,7 @@
 
 #  Autonomous Delivery Agent
 
-Ever wondered how a delivery drone finds its way through a busy city? This project brings that concept to life! It's a simulation of a smart delivery agent that navigates a grid-based city, dodging obstacles and tricky terrain to find the best possible path to deliver its packages.
-
-I built this to explore the core ideas of artificial intelligence—how algorithms can make rational decisions, plan efficiently, and adapt on the fly, just like a real autonomous vehicle would.
+A small research/teaching project for grid-based pathfinding and dynamic replanning. It provides classic search algorithms (BFS, UCS, A\*), local search strategies (hill climbing, simulated annealing), a simple dynamic agent that replans when obstacles appear, and scripts to log and plot performance metrics.
 
 ## What Can It Do?
 
@@ -21,8 +19,7 @@ I built this to explore the core ideas of artificial intelligence—how algorith
 
 First, clone the project to your computer:
 
-```bash
-git clone  https://github.com/bongurishi/delivery_agent_project.git
+//github.com/MihirTirumala/Autonomous-Delivery-Agent-project
 cd delivery_agent_project
 ```
 
