@@ -59,7 +59,4 @@ Check out the full **`report.pdf`** included in this project! It breaks down the
 
 ---
 
-## Contributers.
-B.Rishi
-Seema yadav
-Jasika
+
